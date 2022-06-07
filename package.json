@@ -121,7 +121,7 @@
     "winston-context": "^0.0.7"
   },
   "dependencies": {
-    "args": "^5.0.1",
+    "args": "^5.0.3",
     "eventemitter2": "^6.4.5",
     "fastest-validator": "^1.12.0",
     "glob": "^7.2.0",
